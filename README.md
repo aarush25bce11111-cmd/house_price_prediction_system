@@ -81,9 +81,9 @@
 
 ###### 1\. Clone the repository
 
-###### git clone https://github.com/aarush25bce11111-cmd/house\_price\_prediction\_system.git
+###### git clone https://github.com/aarush25bce11111-cmd/house_price_prediction_system.git
 
-###### cd house\_price\_prediction\_system
+###### cd house_price_prediction_system
 
 ###### 2\. Install dependencies
 
